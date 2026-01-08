@@ -1,0 +1,5 @@
+flight_id,airline,route,delay_probability,delay_minutes,severity
+EK202,Emirates,DXB → LHR,0.92,110,CRITICAL
+QR905,Qatar Airways,DOH → MEL,0.98,118,CRITICAL
+AI101,Air India,DEL → JFK,1.0,136,CRITICAL
+EK204,Emirates,DXB → JFK,0.53,64,HIGH

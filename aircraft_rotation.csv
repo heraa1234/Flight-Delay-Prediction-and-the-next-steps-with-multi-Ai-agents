@@ -1,0 +1,3 @@
+aircraft_id,current_flight_id,next_flight_id,maintenance_due,hub_priority,available
+A6-EDY,EK202,EK505,0,1,1
+A7-BHM,QR905,QR906,0,1,1

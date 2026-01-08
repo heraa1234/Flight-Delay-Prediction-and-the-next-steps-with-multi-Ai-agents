@@ -1,0 +1,3 @@
+staff_id,role,certification,shift_start,shift_end,max_duty_hours,current_flight_id,fatigue_score,union_group,available
+C001,Pilot,A320,6,14,10,EK202,0.2,UnionA,1
+C002,CabinCrew,A320,8,16,8,QR905,0.4,UnionB,1

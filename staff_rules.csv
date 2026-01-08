@@ -1,0 +1,3 @@
+role,max_daily_hours,min_rest_hours,allowed_overtime,union_group
+Pilot,10,12,2,UnionA
+CabinCrew,8,10,2,UnionB

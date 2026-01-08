@@ -1,0 +1,57 @@
+flight_id,decision_explanation
+EK202,"WHY the flight is predicted to be delayed:
+- Significant delay propagated from previous flight
+- Multiple operational risk factors combined
+
+SEVERITY LEVEL: CRITICAL
+
+RECOMMENDED ACTION: Activate disruption recovery plan
+
+OPERATIONAL ACTION STEPS:
+- Gate management: G2
+- Crew management: Reassign backup crew
+- Aircraft management: Swap aircraft rotation
+- Passenger management: Auto-rebook passengers
+- Estimated cost impact: $20000"
+QR905,"WHY the flight is predicted to be delayed:
+- Significant delay propagated from previous flight
+- Multiple operational risk factors combined
+
+SEVERITY LEVEL: CRITICAL
+
+RECOMMENDED ACTION: Activate disruption recovery plan
+
+OPERATIONAL ACTION STEPS:
+- Gate management: G2
+- Crew management: Reassign backup crew
+- Aircraft management: Swap aircraft rotation
+- Passenger management: Auto-rebook passengers
+- Estimated cost impact: $20000"
+AI101,"WHY the flight is predicted to be delayed:
+- Significant delay propagated from previous flight
+- Multiple operational risk factors combined
+
+SEVERITY LEVEL: CRITICAL
+
+RECOMMENDED ACTION: Activate disruption recovery plan
+
+OPERATIONAL ACTION STEPS:
+- Gate management: G2
+- Crew management: Reassign backup crew
+- Aircraft management: No rotation change
+- Passenger management: No passenger impact
+- Estimated cost impact: $60000"
+EK204,"WHY the flight is predicted to be delayed:
+- Significant delay propagated from previous flight
+- Multiple operational risk factors combined
+
+SEVERITY LEVEL: HIGH
+
+RECOMMENDED ACTION: Activate disruption recovery plan
+
+OPERATIONAL ACTION STEPS:
+- Gate management: G2
+- Crew management: Reassign backup crew
+- Aircraft management: No rotation change
+- Passenger management: No passenger impact
+- Estimated cost impact: $20000"

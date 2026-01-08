@@ -1,0 +1,3 @@
+booking_id,flight_id,connecting_flight_id,connection_time_min,passenger_priority,special_assistance
+B001,EK202,EK505,90,High,0
+B002,QR905,QR906,60,Medium,1

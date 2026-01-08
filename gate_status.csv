@@ -1,0 +1,3 @@
+gate_id,terminal,aircraft_type_supported,occupied,next_available_time
+G1,T1,Widebody,1,45
+G2,T1,Narrowbody,0,0

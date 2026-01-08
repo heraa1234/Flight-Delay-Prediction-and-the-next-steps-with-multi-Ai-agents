@@ -1,0 +1,5 @@
+flight_id,airline,origin,destination,day_of_week,season,hour_of_day,month,route_distance_km,previous_flight_delay_min,aircraft_turnaround_time_min,rain_indicator,temperature_diff_c,wind_speed_kmh,departures_last_hour,arrivals_last_hour,gate_available,historical_delay_probability
+EK202,Emirates,DXB,LHR,Sat,Summer,18,7,5500,40,55,1,-3,28,22,25,0,0.68
+QR905,Qatar Airways,DOH,MEL,Sun,Summer,20,7,12000,50,60,1,-4,32,26,24,0,0.72
+AI101,Air India,DEL,JFK,Fri,Summer,23,8,11700,60,65,1,-5,35,30,28,0,0.75
+EK204,Emirates,DXB,JFK,Mon,Summer,21,6,11890,20,60,0,-6,38,30,22,0,0.79
